@@ -10,7 +10,7 @@ body{
     background-image: url(Image/back_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     font-family: 'Nanum Myeongjo', serif;
 }
 
